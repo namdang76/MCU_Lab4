@@ -1,0 +1,14 @@
+main.c:27:6:display7SEG	16	static
+main.c:143:6:SCH_Report_Status	4	static
+main.c:165:15:SCH_Delete_Task	24	static
+main.c:181:6:SCH_Init	16	static
+main.c:196:6:SCH_Update	4	static
+main.c:204:15:SCH_Add_Task	32	static
+main.c:231:6:SCH_Go_To_Sleep	4	static
+main.c:237:6:SCH_Dispatch_Tasks	16	static
+main.c:312:5:main	8	static
+main.c:369:6:SystemClock_Config	72	static
+main.c:405:13:MX_TIM2_Init	32	static
+main.c:450:13:MX_GPIO_Init	40	static
+main.c:488:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:500:6:Error_Handler	4	static,ignoring_inline_asm

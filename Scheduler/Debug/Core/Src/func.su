@@ -1,0 +1,5 @@
+func.c:11:6:Func1	8	static
+func.c:21:6:Func2	8	static
+func.c:31:6:Func3	8	static
+func.c:41:6:Func4	8	static
+func.c:51:6:Func5	8	static
